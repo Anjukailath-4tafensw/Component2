@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "683b082f37fd480afee41788"
+  },
+  "title": "ReactJs1",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 8,
+  "category": "Frontend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683b083d37fd480afee4178b"
+  },
+  "title": "ReactJs2",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 10,
+  "category": "Frontend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683b085137fd480afee4178e"
+  },
+  "title": "NodeJs1",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 10,
+  "category": "Backend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683b085e37fd480afee41791"
+  },
+  "title": "NodeJs2",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 5,
+  "category": "Backend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683b9bf59cace74a4d1d6898"
+  },
+  "title": "Express1",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 8,
+  "category": "Backend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683b9c0c9cace74a4d1d689d"
+  },
+  "title": "Express2",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 9,
+  "category": "Backend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bfc064448c7be22988ae2"
+  },
+  "title": "Express4",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 6,
+  "category": "Backend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bfc764448c7be22988ae7"
+  },
+  "title": "Express5",
+  "description": "React courses are designed to teach you how to build user interfaces for web applications using the JavaScript library React. They cover topics like component-based architecture, state management, JSX, and more. Beginner courses focus on foundational concepts, while advanced courses delve into topics like state management libraries (Redux), routing, and performance optimization. ",
+  "instructor": "Anju K",
+  "duration": 9,
+  "category": "Backend",
+  "__v": 0
+}]

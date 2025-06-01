@@ -1,0 +1,99 @@
+{
+	"info": {
+		"_postman_id": "42d18d8b-b3a6-4658-b90e-7c8d04bbbd0b",
+		"name": "Courses",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44677007",
+		"_collection_link": "https://anju-6158356.postman.co/workspace/dbf94556-e3e5-41d4-8075-03d6f84766f2/collection/44677007-42d18d8b-b3a6-4658-b90e-7c8d04bbbd0b?action=share&source=collection_link&creator=44677007"
+	},
+	"item": [
+		{
+			"name": "Add New Courses",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"ReactJs1\",\r\n  \"description\": \"Learn Step by step\",\r\n  \"instructor\": \"Anju K\",\r\n  \"duration\": 8,\r\n  \"category\": \"Frontend\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/courses",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"courses"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Courses",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/courses",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"courses"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Course by ID",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/courses/68391c987a0cf1fcb1d2c556",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"courses",
+						"68391c987a0cf1fcb1d2c556"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

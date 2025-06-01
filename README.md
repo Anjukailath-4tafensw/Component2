@@ -30,9 +30,10 @@ cd Component2
 
 # Install Dependencies
 
-## Backend:
-cd backend
+## Component2:
+cd Component2
 npm install
+npm install redis
 node index.js
 
 ## 3. Environment Configuration
