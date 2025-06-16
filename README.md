@@ -40,8 +40,7 @@ node index.js
 
 Create a `.env` file in `/Component2`:
 
-MONGO_URI=mongodb://localhost:27017/Courses
-PORT=3000
+MONGO_URI=mongodb+srv://anjukailathnarayanan:<db_password>@clustercourse.kgyr1s7.mongodb.net/?retryWrites=true&w=majority&appName=Clustercourse
 
 # API Endpoints
 
